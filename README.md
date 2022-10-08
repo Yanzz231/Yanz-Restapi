@@ -8,7 +8,8 @@
 
 ## Installation
 
-```1. Type npm i
+```
+1. Type npm i
 2. Type node . or node index.js
 ```
 
