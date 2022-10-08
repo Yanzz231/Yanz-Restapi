@@ -8,7 +8,8 @@
 
 ## Installation
 
-Just by typing node . or node index.js in command prompt or on linux
+1. Type npm i
+2. Type node . or node index.js
 
 ## Disclaimer
 
