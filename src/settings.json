@@ -1,0 +1,19 @@
+{
+     "PORT": 80,
+     "Owner": "6285559038021",
+     "Features": 64,
+     "Active": 64,
+     "Error": 0,
+     "Reset_Time": {
+          "Hour": "6",
+          "Minute": "00"
+     },
+     "Limit_Free": 1000,
+     "otp": {
+          "email": {
+               "user": "wabotcli@gmail.com",
+               "pass": "kontol123lolmek"
+          }
+     },
+     "spam": 2
+}

@@ -1,0 +1,485 @@
+[
+     {
+          "title": "GAME",
+          "flaticon": "fas fa-dice",
+          "url": "/game",
+          "card": [
+               {
+                    "status": true,
+                    "title": "Cak lontong",
+                    "description": "Random Quiz From Cak lontong",
+                    "method": "GET",
+                    "url": "/api/caklontong?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Family 100",
+                    "description": "Random Quiz From Family 100",
+                    "method": "GET",
+                    "url": "/api/family100?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Susun Kata",
+                    "description": "Random Susun Kata",
+                    "method": "GET",
+                    "url": "/api/susunkata?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Tebak Gambar",
+                    "description": "Random Quiz From Tebak Gambar",
+                    "method": "GET",
+                    "url": "/api/tebakgambar?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Tebak Lagu",
+                    "description": "Random Tebak Lagu",
+                    "method": "GET",
+                    "url": "/api/tebaklagu?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Math Easy",
+                    "description": "Random Math Challenge",
+                    "method": "GET",
+                    "url": "/api/matheasy?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Math Medium",
+                    "description": "Random Math Challenge",
+                    "method": "GET",
+                    "url": "/api/mathmedium?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Math Pro",
+                    "description": "Random Math Challenge",
+                    "method": "GET",
+                    "url": "/api/mathpro?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Math Extreme",
+                    "description": "Random Math Challenge",
+                    "method": "GET",
+                    "url": "/api/mathextreme?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Math Impossible",
+                    "description": "Random Math Challenge",
+                    "method": "GET",
+                    "url": "/api/mathimpossible?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Math Impossible2",
+                    "description": "Random Math Challenge",
+                    "method": "GET",
+                    "url": "/api/mathimpossible2?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Tebak Bendera",
+                    "description": "Random Tebak Bendera",
+                    "method": "GET",
+                    "url": "/api/tebakbendera?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Sambung Kata",
+                    "description": "Random Quiz Sambung Kata",
+                    "method": "GET",
+                    "url": "/api/sambungkata?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Siapakah Aku",
+                    "description": "Random Quiz Siapakah Aku",
+                    "method": "GET",
+                    "url": "/api/siapakahaku?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Tebak Jenaka",
+                    "description": "Random Quiz Tebak Jenaka",
+                    "method": "GET",
+                    "url": "/api/tebakjenaka?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Asah Otak",
+                    "description": "Random Quiz Asah Otak",
+                    "method": "GET",
+                    "url": "/api/asahotak?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Dare",
+                    "description": "Random Dare",
+                    "method": "GET",
+                    "url": "/api/dare?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Truth",
+                    "description": "Random Truth",
+                    "method": "GET",
+                    "url": "/api/truth?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "En Dare",
+                    "description": "Random En Dare",
+                    "method": "GET",
+                    "url": "/api/endare?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "En Truth",
+                    "description": "Random En Truth",
+                    "method": "GET",
+                    "url": "/api/entruth?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Tebak Unsur Kimia",
+                    "description": "Random Unsur Kimia",
+                    "method": "GET",
+                    "url": "/api/kimia?apikey="
+               }
+          ]
+     },
+     {
+          "title": "NSFW",
+          "flaticon": "fi-rr-stats",
+          "url": "/nsfw",
+          "card": [
+               {
+                    "status": true,
+                    "title": "Cersex",
+                    "description": "Random Cersex",
+                    "method": "GET",
+                    "url": "/api/cersex?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Hentai",
+                    "description": "Random Hentai",
+                    "method": "GET",
+                    "url": "/api/nsfwhentai?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW School",
+                    "description": "Random School",
+                    "method": "GET",
+                    "url": "/api/nsfwschool?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Pussy",
+                    "description": "Random Pussy",
+                    "method": "GET",
+                    "url": "/api/nsfwpussy?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW FoxGirl",
+                    "description": "Random FoxGirl",
+                    "method": "GET",
+                    "url": "/api/nsfwfoxgirl?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Uniform",
+                    "description": "Random NSFW Uniform",
+                    "method": "GET",
+                    "url": "/api/nsfwuniform?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Neko",
+                    "description": "Random NSFW Neko",
+                    "method": "GET",
+                    "url": "/api/nsfwneko?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Masturbation",
+                    "description": "Random NSFW Masturbation",
+                    "method": "GET",
+                    "url": "/api/nsfwmasturbation?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Wallpaper-PC",
+                    "description": "Random NSFW Wallpaper-PC",
+                    "method": "GET",
+                    "url": "/api/nsfwmasturbation?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Wallpaper-Mobile",
+                    "description": "Random NSFW Wallpaper-Mobile",
+                    "method": "GET",
+                    "url": "/api/nsfwwallpapermobile?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Maid",
+                    "description": "Random NSFW Maid",
+                    "method": "GET",
+                    "url": "/api/nsfwmaid?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Thighs",
+                    "description": "Random NSFW Thighs",
+                    "method": "GET",
+                    "url": "/api/nsfwthighs?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW BlowJob",
+                    "description": "Random NSFW BlowJob",
+                    "method": "GET",
+                    "url": "/api/nsfwblowjob?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Netorare",
+                    "description": "Random NSFW Netorare",
+                    "method": "GET",
+                    "url": "/api/nsfwnetorare?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Feet",
+                    "description": "Random NSFW Feet",
+                    "method": "GET",
+                    "url": "/api/nsfwfeet?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW ASS",
+                    "description": "Random NSFW ASS",
+                    "method": "GET",
+                    "url": "/api/nsfwass?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW BDSM",
+                    "description": "Random NSFW BDSM",
+                    "method": "GET",
+                    "url": "/api/nsfwbdsm?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW CUM",
+                    "description": "Random NSFW CUM",
+                    "method": "GET",
+                    "url": "/api/nsfwcum?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Femdom",
+                    "description": "Random NSFW Femdom",
+                    "method": "GET",
+                    "url": "/api/nsfwfemdom?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Panties",
+                    "description": "Random NSFW Panties",
+                    "method": "GET",
+                    "url": "/api/nsfwpanties?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Orgy",
+                    "description": "Random NSFW Orgy",
+                    "method": "GET",
+                    "url": "/api/nsfworgy?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "NSFW Glasses",
+                    "description": "Random NSFW Glasses",
+                    "method": "GET",
+                    "url": "/api/nsfwglasses?apikey="
+               }
+          ]
+     },
+     {
+          "title": "SEARCH",
+          "flaticon": "fi-rr-search-alt",
+          "url": "/searchmenu",
+          "card": [
+               {
+                    "status": true,
+                    "title": "Pinterest",
+                    "description": "Search Image From Pinterest",
+                    "method": "SEARCH",
+                    "url": "/api/pinterest?q=neko&apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Lirik",
+                    "description": "Search Lirik",
+                    "method": "SEARCH",
+                    "url": "/api/lirik?q=homura&apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Chord",
+                    "description": "Search Chord",
+                    "method": "SEARCH",
+                    "url": "/api/chord?q=cintaku&apikey="
+               }
+          ]
+     },
+     {
+          "title": "RANDOM TEXT",
+          "flaticon": "fi-rr-align-center",
+          "url": "/randomtext",
+          "card": [
+               {
+                    "status": true,
+                    "title": "Bijak",
+                    "description": "Random Text Bijak",
+                    "method": "GET",
+                    "url": "/api/bijak?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Cerpen",
+                    "description": "Random Cerpen",
+                    "method": "GET",
+                    "url": "/api/cerpen?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Nick FF",
+                    "description": "Random Nick FF",
+                    "method": "GET",
+                    "url": "/api/nickff?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Fakta",
+                    "description": "Random Fakta",
+                    "method": "GET",
+                    "url": "/api/fakta?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Kata Senja",
+                    "description": "Random Kata Senja",
+                    "method": "GET",
+                    "url": "/api/katasenja?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Fake Data",
+                    "description": "Random Fake Data",
+                    "method": "GET",
+                    "url": "/api/fakedata?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Motivasi",
+                    "description": "Random Motivasi",
+                    "method": "GET",
+                    "url": "/api/motivasi?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Nama",
+                    "description": "Random Nama",
+                    "method": "GET",
+                    "url": "/api/randomnama?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Quotes",
+                    "description": "Random Quotes",
+                    "method": "GET",
+                    "url": "/api/quotes?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Quotes Anime",
+                    "description": "Random Quotes Anime",
+                    "method": "GET",
+                    "url": "/api/quotesanime?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Quotes Dilan",
+                    "description": "Random Quotes Dilan",
+                    "method": "GET",
+                    "url": "/api/quotesdilan?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Quotes En",
+                    "description": "Random Quotes En",
+                    "method": "GET",
+                    "url": "/api/quotesen?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Quotes Islam",
+                    "description": "Random Quotes Islam",
+                    "method": "GET",
+                    "url": "/api/quotesislam?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Bucin",
+                    "description": "Random Text Bucin",
+                    "method": "GET",
+                    "url": "/api/bucin?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Pantun",
+                    "description": "Random Pantun",
+                    "method": "GET",
+                    "url": "/api/pantun?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Cerita Horor",
+                    "description": "Random Cerita Horor",
+                    "method": "GET",
+                    "url": "/api/horor?apikey="
+               },
+               {
+                    "status": true,
+                    "title": "Fuck My Life",
+                    "description": "Random Text Fuck My Life",
+                    "method": "GET",
+                    "url": "/api/fuckmylife?apikey="
+               }
+          ]
+     },
+     {
+          "title": "TEXT PRO",
+          "flaticon": "fi-rr-text",
+          "url": "/textpro",
+          "card": [
+               {
+                    "status": true,
+                    "title": "Glitch Text",
+                    "description": "Making TextPro",
+                    "method": "POST",
+                    "url": "/api/glitchtext?t1=Yanz&t2=Hallo&apikey="
+               }
+          ]
+     }
+]

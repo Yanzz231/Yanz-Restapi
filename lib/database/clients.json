@@ -1,0 +1,69 @@
+[
+     {
+          "status": "true",
+          "username": "andrian",
+          "password": "anjaymabar",
+          "email": "andrianpratama843@gmail.com",
+          "phone": "62895617056310",
+          "image": "/uploads/avatar-NxpuWiX1Ks.png",
+          "last_ip": "1",
+          "auth": "L7CEfwTurclb4jDFr8JsPl3w1NKI6IQ31BrAMENmZJMGWsay8tXCLI2kOWqXUYPvJ8mGNCVe1COr4WL0O3dE6tMUImwgnygfRMhsAUHTaeOY2KvyoxZGyYWARwfdLSQPaWMUgZZboJxeL9IGRD6ZebGtx66yA93cC33HCBylTQOzz4Hd0VNmVkkTtBilV1gYmHOtXMknohpaLnAtuNjq2zsvtwxoewqCHpEsHbIb8rAxTg3HMYzpRErFM4y3z1Wsq2xr2LZi2q9n4XivH8k6VGvOpM4kWjoA6XmusZ85iJYEvhAYkq4cpjmp3ZVX3zJZhS2wrEjjWNE9RTwQ4K6pXq7mlPgTZr5f8q5WriqLizvvGWnW9mE7u2XdtkVLYP2mOxPk4ADyYt9Y8ul3BEkvNv",
+          "apikey": "YanzZ",
+          "expired_on": null,
+          "account_type": "admin",
+          "usage": {
+               "total": 623,
+               "touched": 399,
+               "limit": null
+          },
+          "allIP": [
+               "2",
+               "1",
+               "192.168.240.177",
+               "120.188.39.95",
+               "120.188.33.99",
+               "120.188.2.117",
+               "120.188.4.73"
+          ]
+     },
+     {
+          "status": "false",
+          "username": "Mark Zuckerberg",
+          "password": "12345678",
+          "email": "woytesaja@gmail.com",
+          "phone": "6287856053716",
+          "image": "https://i.pinimg.com/236x/04/a8/dd/04a8dd19ed28298c6fa9c5d38455ba0c.jpg",
+          "last_ip": "180.254.227.150",
+          "auth": "MlgagDvg3x04Df1A26CCEA4fqlKjCPTikTxMzHs0XtsQIBfEuuQVjGwOKruuJ9l7AhwwnZtcekEgkpwfrl8Pu0wcP9ZC128tRycITCekWThddhAuwD8EyDi9hu4oX5MVISAXcFhsCEKdcrCl9fbQvfSCyMXUtLnnstremzmIzIDdIBpz8zGbuU6b0IuKT6Pf5YxXAjkpg7GJfUwjXI6FxIscr68jkuF5kz0X9reJwku5g6rnIhYpnpclClmtGDYwXHXSu5blXsTabW7OZGzbQAnkGfFC6TYR8QhdLwusPBIq3ajmH4uN7Nm1KBXDBcXwSgiTs4xQmTkIhGEZfwMutoKCYEpPi9Sn0fLH1E234Zudc1YeimwioCZNKRymTtPyKDr0SD5odrYhtTD8NpSmbZ",
+          "apikey": "u4tnper3qP4YTojp0yIe",
+          "expired_on": null,
+          "account_type": "free",
+          "usage": {
+               "total": 0,
+               "touched": 0,
+               "limit": 50
+          },
+          "allIP": []
+     },
+     {
+          "status": "false",
+          "username": "dekk",
+          "password": "12345678abc",
+          "email": "lipex20295@chinamkm.com",
+          "phone": "6285809440506",
+          "image": "https://i.pinimg.com/236x/42/50/c5/4250c52757e3fb1eef27a8586563a76f.jpg",
+          "last_ip": "180.254.217.118",
+          "auth": "nd1EGAI9G4uKuIJ3QES7rJA63zvNYi5BeRARYNZmAfO7v1qxeqVeV4JTGyljs5QNFGHZLy7eeWD6UZltXQNviNZAhFpwIGAqcvMzmNUGnuGEyhUboI8VJ1NogZtMfOPGVNZyRl7PH2JfWXT1Gse6jddW9CXejc5KhrUgn3KS1VbZTeykQNLxdum3E3qWjRBjiS77mRyJykOVWLWY2c3Q3k3WjfDerjNf8gBVcOdLVnFHR15cY9z1GqYMBYzJ5yLnb5Mdbnu9Cizv807FsQczvZqOQUwbBxe8RIxObmJTQmRNbnCqy6HJ867qyXdFb1x64YhIRWtiQT6JsPAnym8Gb4ziIe1OGSpiXHSerZLvjkQrhqMWJkpyT8AkI2PjV4Z7Dtl8H1TQillI5VN6WDnWpX",
+          "apikey": "oliiKnLqMTjKbGH349HB",
+          "expired_on": null,
+          "account_type": "free",
+          "usage": {
+               "total": 0,
+               "touched": 0,
+               "limit": 50
+          },
+          "allIP": [
+               "180.254.217.118"
+          ]
+     }
+]

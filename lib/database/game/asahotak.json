@@ -1,0 +1,758 @@
+[
+  {
+    "pertanyaan": "Sungai terpanjang di Benua Amerika??",
+    "jawaban": "Amazon"
+  },
+  {
+    "pertanyaan": "Konsol permainan video yang pertama kali diproduksi oleh Sony tahun 1990an??",
+    "jawaban": "PlayStation"
+  },
+  {
+    "pertanyaan": "Cairan tidak berwarna, tidak berbau, digunakan sebagai senjata kimia pemusnah massal??",
+    "jawaban": "Sarin"
+  },
+  {
+    "pertanyaan": "Ilmu yang mempelajari bahasa dalam naskah-naskah manuskrip zaman kuno??",
+    "jawaban": "Filologi"
+  },
+  {
+    "pertanyaan": "Seniman terkenal dunia dari Spanyol dengan aliran seni bernama kubisme??",
+    "jawaban": "Picasso"
+  },
+  {
+    "pertanyaan": "Vampir yang merupakan tokoh utama fiksi ciptaan Bram Stoker??",
+    "jawaban": "Drakula"
+  },
+  {
+    "pertanyaan": "Garis yang membagi Bumi menjadi dua bagian belahan utara dan belahan selatan??",
+    "jawaban": "Khatulistiwa"
+  },
+  {
+    "pertanyaan": "Ikon negara singapura berupa patung berkepala singa dengan berbadan ikan??",
+    "jawaban": "Merlion"
+  },
+  {
+    "pertanyaan": "Blus tradisional wanita yang terbuat dari bahan tipis, dikenakan dengan sarung atau batik??",
+    "jawaban": "Kebaya"
+  },
+  {
+    "pertanyaan": "Lomba lari jarak jauh sepanjang 42,195 km??",
+    "jawaban": "Marathon"
+  },
+  {
+    "pertanyaan": "Istilah untuk keadaan niat sebelum melaksanakan ibadah Haji atau Umroh??",
+    "jawaban": "Ihram"
+  },
+  {
+    "pertanyaan": "Sebuah distrik di Los Angeles yang terkenal dengan industri perfilmannya yang mendunia??",
+    "jawaban": "Hollywood"
+  },
+  {
+    "pertanyaan": "Seorang yang bertugas merawat bayi atau anak pada suatu keluarga??",
+    "jawaban": "Pramusiwi"
+  },
+  {
+    "pertanyaan": "Bahasa resmi negara Bangladesh, digunakan oleh sekitar 200 juta orang??",
+    "jawaban": "Bengali"
+  },
+  {
+    "pertanyaan": "Tempat kapal ditambatkan di pelabuhan untuk kegiatan bongkar muat barang??",
+    "jawaban": "Dermaga"
+  },
+  {
+    "pertanyaan": "Nama panglima tertinggi Pasukan Sekutu pada Perang dunia II??",
+    "jawaban": "Eisenhower"
+  },
+  {
+    "pertanyaan": "Sindikat kejahatan terorganisir di Jepang yang memiliki cara dan hukum mereka sendiri??",
+    "jawaban": "Yakuza"
+  },
+  {
+    "pertanyaan": "Surat instruksi kepada Soeharto untuk mengambil alih keamanan Indonesia pada tanggal 11 Maret 1966??",
+    "jawaban": "Supersemar"
+  },
+  {
+    "pertanyaan": "Planet ini merupakan planet terbesar di Tata Surya??",
+    "jawaban": "Yupiter"
+  },
+  {
+    "pertanyaan": "Sebutan untuk gaya tarik-menarik yang terjadi di alam semesta termasuk Bumi??",
+    "jawaban": "Gravitasi"
+  },
+  {
+    "pertanyaan": "Suatu benda atau media yang menghantarkan arus listrik dengan mudah??",
+    "jawaban": "Konduktor"
+  },
+  {
+    "pertanyaan": "Perusahaan video game dari Jepang, pencipta Mario Bros dan Pokemon??",
+    "jawaban": "Nintendo"
+  },
+  {
+    "pertanyaan": "Negara kecil di Amerika Selatan, terdapat banyak keturunan Suku Jawa??",
+    "jawaban": "Suriname"
+  },
+  {
+    "pertanyaan": "Cairan manis yang diproduksi bunga untuk menarik kedatangan hewan penyerbuk??",
+    "jawaban": "Nektar"
+  },
+  {
+    "pertanyaan": "Nama kesenian drama tari tradisional yang khas dari Bali??",
+    "jawaban": "Kecak"
+  },
+  {
+    "pertanyaan": "Negara kecil di Amerika Selatan, terdapat banyak keturunan Suku Jawa??",
+    "jawaban": "Suriname"
+  },
+  {
+    "pertanyaan": "Jenis rumah arsitektur tradisional Jawa terbangun dari empat tiang utama??",
+    "jawaban": "Limasan"
+  },
+  {
+    "pertanyaan": "Tanaman yang dipakai sebagai bahan pembuat kertas pada Zaman Mesir Kuno??",
+    "jawaban": "Papirus"
+  },
+  {
+    "pertanyaan": "Wanita yang tercatat dalam sejarah sebagai penjahit Bendera Pusaka Indonesia??",
+    "jawaban": "Fatmawati"
+  },
+  {
+    "pertanyaan": "Pelukis ekspresionis ini dikenal sebagai maestro seni lukis Indonesia??",
+    "jawaban": "Affandi"
+  },
+  {
+    "pertanyaan": "Perusahaan video game dari Jepang, pencipta Mario Bros dan Pokemon??",
+    "jawaban": "Nintendo"
+  },
+  {
+    "pertanyaan": "Minuman memabukkan yang berbahan dasar etanol??",
+    "jawaban": "Alkohol"
+  },
+  {
+    "pertanyaan": "Nama pulau yang paling berdekatan dengan negara Singapura??",
+    "jawaban": "Batam"
+  },
+  {
+    "pertanyaan": "Jenis musang yang dikenal suka menyantap biji kopi secara utuh??",
+    "jawaban": "Luwak"
+  },
+  {
+    "pertanyaan": "Sungai terpanjang di Benua Amerika??",
+    "jawaban": "Amazon"
+  },
+  {
+    "pertanyaan": "Minuman tradisional khas Sunda, berbahan utama gula aren dan santan??",
+    "jawaban": "Bajigur"
+  },
+  {
+    "pertanyaan": "Planet ini merupakan planet terbesar di Tata Surya??",
+    "jawaban": "Yupiter"
+  },
+  {
+    "pertanyaan": "Bahasa resmi yang juga digunakan secara luas di Negara Filipina??",
+    "jawaban": "Tagalog"
+  },
+  {
+    "pertanyaan": "Nama kesenian drama tari tradisional yang khas dari Bali??",
+    "jawaban": "Kecak"
+  },
+  {
+    "pertanyaan": "Konsol permainan video yang pertama kali diproduksi oleh Sony tahun 1990an??",
+    "jawaban": "PlayStation"
+  },
+  {
+    "pertanyaan": "Nama film aksi laga Indonesia tahun 2009 yang dibintangi oleh Iko Uwais??",
+    "jawaban": "Merantau"
+  },
+  {
+    "pertanyaan": "Kota yang berdiri sejak tahun 682 ini disebut sebagai kota tertua di Indonesia??",
+    "jawaban": "Palembang"
+  },
+  {
+    "pertanyaan": "Daerah di Jepang dimana terjadi kebocoran nuklir pada tahun 2011??",
+    "jawaban": "Fukushima"
+  },
+  {
+    "pertanyaan": "Jenis jam tangan yang digerakkan oleh mesin bertenaga listrik atau baterai??",
+    "jawaban": "Quartz"
+  },
+  {
+    "pertanyaan": "Tanaman asli Jepang terasa tajam/pedas yang dimakan sebagai penyedap masakan Jepang??",
+    "jawaban": "Wasabi"
+  },
+  {
+    "pertanyaan": "Senjata fiksi dalam dunia Star Wars, digunakan oleh Jedi dan Sith??",
+    "jawaban": "Lightsaber"
+  },
+  {
+    "pertanyaan": "Rangkaian pegunungan tertinggi di Indonesia, terletak di Pulau Papua??",
+    "jawaban": "Jayawijaya"
+  },
+  {
+    "pertanyaan": "Nama periode geologi dari 252 ke 66 juta tahun yang lalu, disebut juga Zaman Reptil??",
+    "jawaban": "Mesozoikum"
+  },
+  {
+    "pertanyaan": "Sindikat kejahatan terorganisir di Jepang yang memiliki cara dan hukum mereka sendiri??",
+    "jawaban": "Yakuza"
+  },
+  {
+    "pertanyaan": "Ahli pengaplikasian ilmu keuangan dan teori statistik pada persoalan bisnis aktual??",
+    "jawaban": "Aktuaris"
+  },
+  {
+    "pertanyaan": "Negara yang memiliki bendera merah putih persis seperti Indonesia??",
+    "jawaban": "Monako"
+  },
+  {
+    "pertanyaan": "Peristiwa genosida terhadap penganut Yahudi Eropa selama Perang Dunia II??",
+    "jawaban": "Holokaus"
+  },
+  {
+    "pertanyaan": "Jenis protein yang biasanya terkandung di dalam gandum, dihindari penderita celiac??",
+    "jawaban": "Gluten"
+  },
+  {
+    "pertanyaan": "Nama pulau yang paling berdekatan dengan negara Singapura??",
+    "jawaban": "Batam"
+  },
+  {
+    "pertanyaan": "Tarian khas suku gayo dari aceh, ditampilkan untuk merayakan peristiwa penting??",
+    "jawaban": "Tari saman"
+  },
+  {
+    "pertanyaan": "Satu-satunya gunung berapi aktif di Eropa Daratan yang letaknya di Italia??",
+    "jawaban": "Vesuvius"
+  },
+  {
+    "pertanyaan": "Tanaman yang dapat tumbuh tanpa air pada waktu yang lama, ada di daerah gurun??",
+    "jawaban": "Kaktus"
+  },
+  {
+    "pertanyaan": "Rangkaian pegunungan tertinggi di Indonesia, terletak di Pulau Papua??",
+    "jawaban": "Jayawijaya"
+  },
+  {
+    "pertanyaan": "Prajurit pada zaman Yunani Kuno, berfungsi sebagai penombak dalam formasi phalanx??",
+    "jawaban": "Hoplites"
+  },
+  {
+    "pertanyaan": "Nama wilayah luas di Rusia, meliputi hampir seluruh wilayah Asia Utara??",
+    "jawaban": "Siberia"
+  },
+  {
+    "pertanyaan": "Cairan manis yang diproduksi bunga untuk menarik kedatangan hewan penyerbuk??",
+    "jawaban": "Nektar"
+  },
+  {
+    "pertanyaan": "Ensembel musik yang biasanya menonjolkan metalofon, gambang, gendang, dan gong??",
+    "jawaban": "Gamelan"
+  },
+  {
+    "pertanyaan": "Nama kepulauan dimana charles darwin melakukan penelitiannya??",
+    "jawaban": "Galapagos"
+  },
+  {
+    "pertanyaan": "Perusahaan operator seluler di Indonesia dengan pelanggan terbanyak??",
+    "jawaban": "Telkomsel"
+  },
+  {
+    "pertanyaan": "Nama pemanis buatan/sintetis yang tersusun dari dua macam asam amino??",
+    "jawaban": "Aspartam"
+  },
+  {
+    "pertanyaan": "Batu yang menggantungkan dan meneteskan air dari langit-langit gua kapur??",
+    "jawaban": "Stalaktit"
+  },
+  {
+    "pertanyaan": "Ideologi yang berdasarkan pada prinsip kepemimpinan dengan otoritas absolut??",
+    "jawaban": "Fasisme"
+  },
+  {
+    "pertanyaan": "Istilah untuk sesuatu yang bertujuan sosial atau lingkungan, bukan bertujuan keuntungan materi??",
+    "jawaban": "Nirlaba"
+  },
+  {
+    "pertanyaan": "Ilmu yang mempelajari bentuk permukaan bumi serta permukaan planet, satelit alami, asteroid??",
+    "jawaban": "Topografi"
+  },
+  {
+    "pertanyaan": "Nama semenanjung di Eropa dimana terdapat negara Norwegia dan Swedia??",
+    "jawaban": "Skandinavia"
+  },
+  {
+    "pertanyaan": "Nama kesenian drama tari tradisional yang khas dari Bali??",
+    "jawaban": "Kecak"
+  },
+  {
+    "pertanyaan": "Grup musik terkenal tahun 1970an asal Bandung, personelnya tiga bersaudara??",
+    "jawaban": "Bimbo"
+  },
+  {
+    "pertanyaan": "Grup musik terkenal tahun 1970an asal Bandung, personelnya tiga bersaudara??",
+    "jawaban": "Bimbo"
+  },
+  {
+    "pertanyaan": "Makhluk halus mitos Jawa, berwujud manusia mirip kera, bertubuh besar dan berbulu??",
+    "jawaban": "Genderuwo"
+  },
+  {
+    "pertanyaan": "Pedang melengkung satu mata yang digunakan para Samurai Jepang??",
+    "jawaban": "Katana"
+  },
+  {
+    "pertanyaan": "Petarung di zaman Romawi Kuno yang melakukan pertarungan untuk hiburan umum??",
+    "jawaban": "Gladiator"
+  },
+  {
+    "pertanyaan": "Nama perusahaan dari Finlandia pengembang game Clash of Clans??",
+    "jawaban": "Supercell"
+  },
+  {
+    "pertanyaan": "Benua yang meliputi Kutub Selatan bumi memiliki suhu yang sangat rendah??",
+    "jawaban": "Antartika"
+  },
+  {
+    "pertanyaan": "Spesies gajah purba dari genus mamut, pemakan dedaunan dan dahan pohon??",
+    "jawaban": "Mastodon"
+  },
+  {
+    "pertanyaan": "Prajurit pada zaman Yunani Kuno, berfungsi sebagai penombak dalam formasi phalanx??",
+    "jawaban": "Hoplites"
+  },
+  {
+    "pertanyaan": "Nama lain pulau Kalimantan, digunakan saat zaman pemerintahan Hindia Belanda??",
+    "jawaban": "Borneo"
+  },
+  {
+    "pertanyaan": "Bangun datar segi empat, sepasang sisi sejajar namun tidak sama panjang??",
+    "jawaban": "Trapesium"
+  },
+  {
+    "pertanyaan": "Bencana alam berupa gelombang ombak besar dari laut??",
+    "jawaban": "Tsunami"
+  },
+  {
+    "pertanyaan": "Minuman memabukkan yang berbahan dasar etanol??",
+    "jawaban": "Alkohol"
+  },
+  {
+    "pertanyaan": "Sekolah umum yang kurikulumnya terdapat pelajaran-pelajaran tentang ke-islaman??",
+    "jawaban": "Madrasah"
+  },
+  {
+    "pertanyaan": "Ahli pengaplikasian ilmu keuangan dan teori statistik pada persoalan bisnis aktual??",
+    "jawaban": "Aktuaris"
+  },
+  {
+    "pertanyaan": "Pengusaha rokok terbesar tahun 1918 pemilik pabrik kretek tjap bal tiga??",
+    "jawaban": "Nitisemito"
+  },
+  {
+    "pertanyaan": "Olahraga yang menggunakan tongkat pemukul, lapangannya berbentuk bujur sangkar??",
+    "jawaban": "Bisbol"
+  },
+  {
+    "pertanyaan": "Perusahaan berlogo kuda asal Italia produsen mobil super dan mobil balap??",
+    "jawaban": "Ferrari"
+  },
+  {
+    "pertanyaan": "Mata uang elektronik dengan teknologi blockchain yang diciptakan pada tahun 2009??",
+    "jawaban": "Bitcoin"
+  },
+  {
+    "pertanyaan": "Drama tradisional dari Jawa Timur, bersifat menghibur dan membuat tertawa??",
+    "jawaban": "Ludruk"
+  },
+  {
+    "pertanyaan": "Drama tradisional dari Jawa Timur, bersifat menghibur dan membuat tertawa??",
+    "jawaban": "Ludruk"
+  },
+  {
+    "pertanyaan": "Ikon negara singapura berupa patung berkepala singa dengan berbadan ikan??",
+    "jawaban": "Merlion"
+  },
+  {
+    "pertanyaan": "Senjata fiksi dalam dunia Star Wars, digunakan oleh Jedi dan Sith??",
+    "jawaban": "Lightsaber"
+  },
+  {
+    "pertanyaan": "Nama lain pulau Kalimantan, digunakan saat zaman pemerintahan Hindia Belanda??",
+    "jawaban": "Borneo"
+  },
+  {
+    "pertanyaan": "Sebuah organisasi ekonomi berdasarkan ekonomi rakyat dan asas kekeluargaan??",
+    "jawaban": "Koperasi"
+  },
+  {
+    "pertanyaan": "Nama kerajaan dimana rajanya menjadi wakil Gubernur DI Yogyakarta saat ini??",
+    "jawaban": "Pakualaman"
+  },
+  {
+    "pertanyaan": "Rempah dari biji keluarga jahe-jahean, merupakan rempah termahal ketiga di dunia??",
+    "jawaban": "Kapulaga"
+  },
+  {
+    "pertanyaan": "Nama semenanjung di Eropa dimana terdapat negara Norwegia dan Swedia??",
+    "jawaban": "Skandinavia"
+  },
+  {
+    "pertanyaan": "Pejabat umum dalam bidang hukum yang berwenang membuat akta otentik??",
+    "jawaban": "Notaris"
+  },
+  {
+    "pertanyaan": "Sebuah organisasi ekonomi berdasarkan ekonomi rakyat dan asas kekeluargaan??",
+    "jawaban": "Koperasi"
+  },
+  {
+    "pertanyaan": "Alat untuk mengukur tekanan udara, digunakan dalam peramalan cuaca??",
+    "jawaban": "Barometer"
+  },
+  {
+    "pertanyaan": "Sebuah gelar yang diperoleh putra Sultan Agung dari Mataram??",
+    "jawaban": "Amangkurat"
+  },
+  {
+    "pertanyaan": "Olahraga bela diri yang dikembangkan oleh para Afrika di Brasil pada tahun 1500an??",
+    "jawaban": "Capoeira"
+  },
+  {
+    "pertanyaan": "Proses perubahan gula menjadi etanol yang dilakukan oleh ragi??",
+    "jawaban": "Fermentasi"
+  },
+  {
+    "pertanyaan": "Negara kecil di Amerika Selatan, terdapat banyak keturunan Suku Jawa??",
+    "jawaban": "Suriname"
+  },
+  {
+    "pertanyaan": "Nama asrama sekolah fiksi dimana tokoh Harry Potter belajar sihir??",
+    "jawaban": "Hogwarts"
+  },
+  {
+    "pertanyaan": "Ikan yang merupakan kerabat dekat ikan tuna, sering diolah menjadi kerupuk, siomay, pempek??",
+    "jawaban": "Ikan tenggiri"
+  },
+  {
+    "pertanyaan": "Suku dari sulawesi selatan yang terkenal sebagai pelaut ulung??",
+    "jawaban": "BugisVampir yang"
+  },
+  {
+    "pertanyaan": "Subspesies manusia yang punah dari muka bumi sekitar 30.000 tahun yang lalu??",
+    "jawaban": "Neanderthal"
+  },
+  {
+    "pertanyaan": "Istilah untuk keadaan niat sebelum melaksanakan ibadah Haji atau Umroh??",
+    "jawaban": "Ihram"
+  },
+  {
+    "pertanyaan": "Jenis protein yang biasanya terkandung di dalam gandum, dihindari penderita celiac??",
+    "jawaban": "Gluten"
+  },
+  {
+    "pertanyaan": "Bagian mata yang mengubah cahaya menjadi sinyal saraf??",
+    "jawaban": "Retina"
+  },
+  {
+    "pertanyaan": "Suatu benda atau media yang menghantarkan arus listrik dengan mudah??",
+    "jawaban": "Konduktor"
+  },
+  {
+    "pertanyaan": "Bahasa resmi negara Bangladesh, digunakan oleh sekitar 200 juta orang??",
+    "jawaban": "Bengali"
+  },
+  {
+    "pertanyaan": "Tipe hewan yang beraktivitas pada malam hari dan tidur pada siang hari??",
+    "jawaban": "Nokturnal"
+  },
+  {
+    "pertanyaan": "Bahan perhiasan yang diproduksi di dalam jaringan lunak hewan moluska??",
+    "jawaban": "Mutiara"
+  },
+  {
+    "pertanyaan": "Nama kapal penumpang mewah yang tenggelam saat pelayaran perdana tahun 1912??",
+    "jawaban": "Titanic"
+  },
+  {
+    "pertanyaan": "Tanaman yang dipakai sebagai bahan pembuat kertas pada Zaman Mesir Kuno??",
+    "jawaban": "Papirus"
+  },
+  {
+    "pertanyaan": "Negara yang memiliki bendera merah putih persis seperti Indonesia??",
+    "jawaban": "Monako"
+  },
+  {
+    "pertanyaan": "Gelar penguasa monarki zaman kerajaan, tingkatnya setara dengan kaisar??",
+    "jawaban": "Maharaja"
+  },
+  {
+    "pertanyaan": "Salah satu bunga nasional indonesia memiliki julukan sebagai puspa bangsa??",
+    "jawaban": "Melati"
+  },
+  {
+    "pertanyaan": "Pelukis ekspresionis ini dikenal sebagai maestro seni lukis Indonesia??",
+    "jawaban": "Affandi"
+  },
+  {
+    "pertanyaan": "Istilah dalam catur ketika posisi raja tidak bisa lepas dari pergerakan lawan??",
+    "jawaban": "Sekakmat"
+  },
+  {
+    "pertanyaan": "Rempah dari biji keluarga jahe-jahean, merupakan rempah termahal ketiga di dunia??",
+    "jawaban": "Kapulaga"
+  },
+  {
+    "pertanyaan": "Ramalan dalam tradisi jawa yang membahas mengenai adanya ratu adil??",
+    "jawaban": "Jayabaya"
+  },
+  {
+    "pertanyaan": "Proses pembuatan daratan baru dari dasar laut atau dasar sungai??",
+    "jawaban": "Reklamasi"
+  },
+  {
+    "pertanyaan": "Jenis saus berwarna putih yang terbuat dari minyak nabati, telur ayam, dan cuka??",
+    "jawaban": "Mayones"
+  },
+  {
+    "pertanyaan": "Gelar penguasa monarki zaman kerajaan, tingkatnya setara dengan kaisar??",
+    "jawaban": "Maharaja"
+  },
+  {
+    "pertanyaan": "Nama dari sebuah pekan yang terdiri dari 5 hari dalam budaya Jawa dan Bali??",
+    "jawaban": "Pancawara"
+  },
+  {
+    "pertanyaan": "Mata uang elektronik dengan teknologi blockchain yang diciptakan pada tahun 2009??",
+    "jawaban": "Bitcoin"
+  },
+  {
+    "pertanyaan": "Gugus kepulauan Oseania, terdiri lebih dari 1000 kepulauan??",
+    "jawaban": "Polinesia"
+  },
+  {
+    "pertanyaan": "Pisau genggam kecil berbentuk melengkung khas dari Asia Tenggara??",
+    "jawaban": "Kerambit"
+  },
+  {
+    "pertanyaan": "Penjelajah asal italia yang menemukan benua amerika pada tahun 1492??",
+    "jawaban": "Capoerira"
+  },
+  {
+    "pertanyaan": "Jenis ikan yang dapat melompat kedaratan, terdapat di Pulau Kalimantan??",
+    "jawaban": "Tembakul"
+  },
+  {
+    "pertanyaan": "Petarung di zaman Romawi Kuno yang melakukan pertarungan untuk hiburan umum??",
+    "jawaban": "Gladiator"
+  },
+  {
+    "pertanyaan": "Nama film yang bercerita tentang robot yang dapat berubah menjadi kendaran??",
+    "jawaban": "Transformers"
+  },
+  {
+    "pertanyaan": "Blus tradisional wanita yang terbuat dari bahan tipis, dikenakan dengan sarung atau batik??",
+    "jawaban": "Kebaya"
+  },
+  {
+    "pertanyaan": "Cabang angkatan bersenjata berkemampuan melakukan penyerbuan secara amfibi??",
+    "jawaban": "Marinir"
+  },
+  {
+    "pertanyaan": "Senjata pelontar yang banyak digunakan pada Abad Pertengahan untuk menghancurkan dinding??",
+    "jawaban": "Trebuset"
+  },
+  {
+    "pertanyaan": "Nama pura terkenal di Bali yang dibangun pada ujung batu karang??",
+    "jawaban": "Uluwatu"
+  },
+  {
+    "pertanyaan": "Persembahan kepada dewa atau arwah nenek moyang oleh penganut kepercayaan kuno di Indonesia??",
+    "jawaban": "Sesajen"
+  },
+  {
+    "pertanyaan": "Nama mata uang yang digunakan di negara Rusia??",
+    "jawaban": "Rubel"
+  },
+  {
+    "pertanyaan": "Minuman hasil fermentasi teh dan gula yang berasal dari Asia Timur??",
+    "jawaban": "Kombucha"
+  },
+  {
+    "pertanyaan": "Sistem bilangan dimana penulisan angka menggunakan dua simbol yaitu 0 dan 1??",
+    "jawaban": "Biner"
+  },
+  {
+    "pertanyaan": "Nama suku yang sejak lama mendiami daerah kutub utara bumi??",
+    "jawaban": "Eskimo"
+  },
+  {
+    "pertanyaan": "Istilah bentuk bangsa pengembara yang memilih hidup berpindah-pindah untuk bertahan hidup??",
+    "jawaban": "Nomaden"
+  },
+  {
+    "pertanyaan": "Gejala optik dan meteorologi berupa cahaya beraneka warna yang tampak di langit??",
+    "jawaban": "Pelangi"
+  },
+  {
+    "pertanyaan": "Bahan bakar fosil, digunakan di Pembangkit Listrik Tenaga Uap??",
+    "jawaban": "Batu bara"
+  },
+  {
+    "pertanyaan": "Negara kecil di Amerika Selatan, terdapat banyak keturunan Suku Jawa??",
+    "jawaban": "Suriname"
+  },
+  {
+    "pertanyaan": "Surat instruksi kepada Soeharto untuk mengambil alih keamanan Indonesia pada tanggal 11 Maret 1966??",
+    "jawaban": "Supersemar"
+  },
+  {
+    "pertanyaan": "Seorang yang bertugas merawat bayi atau anak pada suatu keluarga??",
+    "jawaban": "Pramusiwi"
+  },
+  {
+    "pertanyaan": "Bangun datar segi empat, sepasang sisi sejajar namun tidak sama panjang??",
+    "jawaban": "Trapesium"
+  },
+  {
+    "pertanyaan": "Drama tradisional dari Jawa Timur, bersifat menghibur dan membuat tertawa??",
+    "jawaban": "Ludruk"
+  },
+  {
+    "pertanyaan": "Kota yang asal mula namanya berasal dari sejarahnya sebagai pembuat terasi??",
+    "jawaban": "Cirebon"
+  },
+  {
+    "pertanyaan": "Tradisi sepasang pengantin meminta doa restu kepada orang tua kedua belah pihak??",
+    "jawaban": "Sungkem"
+  },
+  {
+    "pertanyaan": "Senjata fiksi dalam dunia Star Wars, digunakan oleh Jedi dan Sith??",
+    "jawaban": "Lightsaber"
+  },
+  {
+    "pertanyaan": "Bahan peledak berupa bubuk campuran dari belerang, arang, dan kalium nitrat??",
+    "jawaban": "Mesiu"
+  },
+  {
+    "pertanyaan": "Nama film yang bercerita tentang robot yang dapat berubah menjadi kendaran??",
+    "jawaban": "Transformers"
+  },
+  {
+    "pertanyaan": "Daerah dimana terdapat praktik pertanian pertama sekitar tahun 8000 SM??",
+    "jawaban": "Mesopotamia"
+  },
+  {
+    "pertanyaan": "Unsur paling berlimpah kedua setelah oksigen pada tubuh manusia??",
+    "jawaban": "Karbon"
+  },
+  {
+    "pertanyaan": "Tradisi pernikahan calon mempelai wanita tidak diperkenankan keluar rumah??",
+    "jawaban": "Pingitan"
+  },
+  {
+    "pertanyaan": "Skor atau skala yang digunakan unuk menilai kondisi kesehatan bayi yang baru lahir??",
+    "jawaban": "Apgar"
+  },
+  {
+    "pertanyaan": "Surat instruksi kepada Soeharto untuk mengambil alih keamanan Indonesia pada tanggal 11 Maret 1966??",
+    "jawaban": "Supersemar"
+  },
+  {
+    "pertanyaan": "Musim kering pada daerah tropis yang dipengaruhi oleh sistem muson??",
+    "jawaban": "kemarau"
+  },
+  {
+    "pertanyaan": "Senjata pelontar yang banyak digunakan pada Abad Pertengahan untuk menghancurkan dinding??",
+    "jawaban": "Trebuset"
+  },
+  {
+    "pertanyaan": "Grup musik Rock alternatif dari London. vokalisnya bernama Chris Martin??",
+    "jawaban": "Coldplay"
+  },
+  {
+    "pertanyaan": "Istilah untuk sebuah kepercayaan bahwa Tuhan adalah satu atau tunggal??",
+    "jawaban": "Monoteisme"
+  },
+  {
+    "pertanyaan": "Karakter fiksi berambut sangat panjang tokoh utama film animasi Tangled??",
+    "jawaban": "Rapunzel"
+  },
+  {
+    "pertanyaan": "Bencana alam berupa gelombang ombak besar dari laut??",
+    "jawaban": "Tsunami"
+  },
+  {
+    "pertanyaan": "Bongkahan batu yang berukuran lebih kecil daripada planet, mengorbit Matahari??",
+    "jawaban": "Asteroid"
+  },
+  {
+    "pertanyaan": "Nama bahasa yang digunakan di Iran, Tajikistan, Afganistan, dan Uzbekistan??",
+    "jawaban": "Farsi"
+  },
+  {
+    "pertanyaan": "Bangun datar segi empat, sepasang sisi sejajar namun tidak sama panjang??",
+    "jawaban": "Trapesium"
+  },
+  {
+    "pertanyaan": "Sungai terpanjang di Benua Amerika??",
+    "jawaban": "Amazon"
+  },
+  {
+    "pertanyaan": "Proses pembuatan daratan baru dari dasar laut atau dasar sungai??",
+    "jawaban": "Reklamasi"
+  },
+  {
+    "pertanyaan": "Pisau genggam kecil berbentuk melengkung khas dari Asia Tenggara??",
+    "jawaban": "Kerambit"
+  },
+  {
+    "pertanyaan": "Nama binatang bercangkang dan berkaki 10??",
+    "jawaban": "Kepiting"
+  },
+  {
+    "pertanyaan": "Satu-satunya gunung berapi aktif di Eropa Daratan yang letaknya di Italia??",
+    "jawaban": "Vesuvius"
+  },
+  {
+    "pertanyaan": "Unsur paling berlimpah kedua setelah oksigen pada tubuh manusia??",
+    "jawaban": "Karbon"
+  },
+  {
+    "pertanyaan": "Nama perusahaan dari Finlandia pengembang game Clash of Clans??",
+    "jawaban": "Supercell"
+  },
+  {
+    "pertanyaan": "Presiden pertama Amerika Serikat, juga menjadi nama Ibukota Amerika Serikat??",
+    "jawaban": "Washingthon"
+  },
+  {
+    "pertanyaan": "Hewan renik yang dapat menurunkan produktivitas hewan yang diumpanginya??",
+    "jawaban": "Parasit"
+  },
+  {
+    "pertanyaan": "Cabang ilmu kedokteran gigi yang khusus mempelajari ilmu merapikan gigi??",
+    "jawaban": "Ortodonti"
+  },
+  {
+    "pertanyaan": "Batu yang menggantungkan dan meneteskan air dari langit-langit gua kapur??",
+    "jawaban": "Stalaktit"
+  },
+  {
+    "pertanyaan": "Ramalan dalam tradisi jawa yang membahas mengenai adanya ratu adil??",
+    "jawaban": "Jayabaya"
+  },
+  {
+    "pertanyaan": "Gelar penguasa monarki zaman kerajaan, tingkatnya setara dengan kaisar??",
+    "jawaban": "Maharaja"
+  },
+  {
+    "pertanyaan": "Kekaisaran kuno di wilayah Yunani yang dipimpin oleh Aleksander Agung??",
+    "jawaban": "Makedonia"
+  },
+  {
+    "pertanyaan": "Seorang yang bertugas merawat bayi atau anak pada suatu keluarga??",
+    "jawaban": "Pramusiwi"
+  },
+  {
+    "pertanyaan": "Salah satu senjata belati khas Nusantara yang seringkali bilahnya berkelok-kelok??",
+    "jawaban": "Keris"
+  }
+]

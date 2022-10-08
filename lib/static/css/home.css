@@ -1,0 +1,141 @@
+@import url(../../../fonts.googleapis.com/css2@family=Ubuntu%253Awght@300&display=swap.css);
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Ubuntu, sans-serif;
+}
+
+html {
+    background: url(../images/sagiri.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+div.text {
+    position: absolute;
+}
+
+div.text .status {
+    position: relative;
+    animation: animetop 0.8s;
+}
+
+div.text .readdocs {
+    position: relative;
+    animation: animebot 0.8s;
+    text-align: center;
+}
+
+@keyframes animetop {
+    0% {
+        top: -200px;
+        opacity: 0;
+    }
+    100% {
+        top: 0;
+        opacity: 1;
+    }
+}
+
+@keyframes animebot {
+    0% {
+        top: 200px;
+        opacity: 0;
+    }
+    100% {
+        top: 0;
+        opacity: 1;
+    }
+}
+
+p {
+    color: rgba(255, 255, 255, 0.8);
+    letter-spacing: 0.15em;
+    font-size: 15px !important;
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+a.sosmed {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+a.sosmed-icon {
+    padding: 0;
+    margin: 0;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+}
+
+.typed-text {
+    color: #0f0;
+}
+
+.cursor {
+    overflow: hidden;
+    border-right: 0.15em solid orange;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: 0.15em;
+    animation: typing 1.5s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes blink-caret {
+    from,
+    to {
+        border-color: transparent;
+    }
+    50% {
+        border-color: orange;
+    }
+}
+
+hr {
+    margin: 10px auto;
+    position: relative;
+    background: rgba(255, 255, 255, 0.5);
+    width: 80%;
+    height: 2px;
+}
+
+div.bottom {
+    position: fixed;
+    left: 50%;
+    bottom: 50px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+}
+
+.h-6 {
+    height: 1.5rem;
+}
+
+.w-6 {
+    width: 1.5rem;
+}

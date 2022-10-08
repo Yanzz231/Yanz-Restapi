@@ -1,0 +1,4002 @@
+[
+  {
+    "soal": "0 + -8",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - 8",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "4 + -5",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + 8",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + -9",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - -7",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "7 - 5",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - 6",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "1 - 2",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + 5",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "6 - 9",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - -5",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - -7",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "1 + -8",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + 6",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + 4",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "1 + -1",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "9 + -4",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "0 - 9",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - 7",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - 1",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "1 + -10",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "6 - -9",
+    "jawaban": "15",
+    "poin": 40
+  },
+  {
+    "soal": "9 - 3",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "2 - 8",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + 2",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - 6",
+    "jawaban": "-15",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + -7",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "8 + -10",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "4 - -8",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + 0",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "9 - -5",
+    "jawaban": "14",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - 1",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + -2",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "9 + 6",
+    "jawaban": "15",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - 5",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + 9",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "0 - -10",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + -1",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - 9",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "6 + -8",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - 5",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "4 - -9",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "1 + 1",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "0 + 4",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - -4",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - 7",
+    "jawaban": "-16",
+    "poin": 40
+  },
+  {
+    "soal": "0 + 5",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "3 - -10",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "4 + 7",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - -4",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + 5",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + -2",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + -9",
+    "jawaban": "-16",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + -5",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - 1",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - -1",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "0 + 2",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - 5",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "3 + 7",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "2 + -5",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + -4",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "3 - 6",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "3 - 8",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - 8",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "2 - -8",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "3 + 8",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "5 + -10",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + -9",
+    "jawaban": "-18",
+    "poin": 40
+  },
+  {
+    "soal": "7 + 0",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - 5",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "8 - -1",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - -2",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - 3",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "1 + 4",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "7 - 1",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + 7",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "0 + 8",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + -10",
+    "jawaban": "-19",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - 3",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "6 - -5",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "4 + 6",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + 5",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "2 - -7",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + 1",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "7 + 9",
+    "jawaban": "16",
+    "poin": 40
+  },
+  {
+    "soal": "3 - -3",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "8 - -3",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "7 - 9",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "4 - -5",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - -3",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - -4",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "2 + -6",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - -6",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + -7",
+    "jawaban": "-17",
+    "poin": 40
+  },
+  {
+    "soal": "1 + -3",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - 6",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "7 - 7",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - -5",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + -6",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - -4",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "2 + 5",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "8 + -9",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "2 + 3",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - -10",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "5 - 1",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "4 - 8",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "6 - 6",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + 9",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "5 + -3",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + 6",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "8 + 3",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "8 - 9",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "5 + -9",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + 1",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - -1",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "4 - -2",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - -4",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + -5",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "2 + -2",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "5 - -7",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + -8",
+    "jawaban": "-17",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + 1",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "7 + 8",
+    "jawaban": "15",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + -9",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "0 - 7",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "7 + -7",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "7 - 4",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "1 - -7",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "1 - -9",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - 8",
+    "jawaban": "-15",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + 2",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - -10",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + -2",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - 7",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "1 - 5",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + -5",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "9 + 4",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "0 - 1",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + 8",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - -3",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "6 - -2",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - -2",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "8 - -10",
+    "jawaban": "18",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - 2",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "7 - 8",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + 9",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "7 - 2",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "5 - 2",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - -9",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + -10",
+    "jawaban": "-15",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + 1",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "4 + -2",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "7 + 3",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "5 - -1",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "0 - 2",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - 4",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "0 - 4",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "2 - 7",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "0 - 6",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + 7",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + -10",
+    "jawaban": "-16",
+    "poin": 40
+  },
+  {
+    "soal": "1 + -2",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + 2",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - 3",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - -9",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - 4",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + 1",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + -4",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + 5",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "6 + -7",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "0 + -3",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "6 + -2",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "3 - 4",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - 5",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - 2",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - -4",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "6 + -5",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + -9",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + 3",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "2 - -6",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "8 - 1",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "3 - 7",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - 5",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "0 - -6",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "4 + 8",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "0 - -2",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "7 - -9",
+    "jawaban": "16",
+    "poin": 40
+  },
+  {
+    "soal": "1 + 8",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + -3",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "9 - -2",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "3 + -4",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "8 + 9",
+    "jawaban": "17",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + -4",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + 4",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + 4",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - 0",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - -7",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + 5",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "8 + -4",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - 7",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + 9",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "5 - -8",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "1 + 9",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "0 + -2",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "3 - -6",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "6 + 5",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - 8",
+    "jawaban": "-17",
+    "poin": 40
+  },
+  {
+    "soal": "1 - -1",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - 9",
+    "jawaban": "-16",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + -4",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "3 - -4",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "3 + 4",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - -9",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - -6",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - -6",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + 7",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "6 - -10",
+    "jawaban": "16",
+    "poin": 40
+  },
+  {
+    "soal": "3 - -1",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "5 - 3",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "2 + 9",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - 6",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - 6",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "5 - 8",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "8 + 0",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "5 + 2",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "5 - -4",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "8 - -7",
+    "jawaban": "15",
+    "poin": 40
+  },
+  {
+    "soal": "2 + 1",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "2 - -3",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "6 + -6",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + 3",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - -8",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + 4",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + 7",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "1 + -4",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "4 - 2",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - 9",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "1 - 4",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "3 + 9",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + 1",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "2 - 2",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - 5",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + 0",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - -3",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - 6",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - -1",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "7 - 6",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + 6",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "4 - 6",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "6 - 0",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "1 - 7",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "7 + 7",
+    "jawaban": "14",
+    "poin": 40
+  },
+  {
+    "soal": "0 + 1",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + 0",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + -6",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - 4",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "6 + -4",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - -5",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "2 - 1",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - -7",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "2 - 5",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - -9",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - 2",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + 1",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "8 - -2",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "1 - 0",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + -1",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "1 - -5",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - 2",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - -4",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "5 - 4",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + 5",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - -4",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "5 + 6",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + -2",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - 0",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - 4",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + 6",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "8 - 5",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "3 - 0",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + 7",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "3 + -6",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "7 + -4",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + 0",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - -8",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "9 + 0",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "0 - -4",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "6 - 3",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + -6",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - -8",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "9 + -10",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - -1",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - -2",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - 9",
+    "jawaban": "-19",
+    "poin": 40
+  },
+  {
+    "soal": "1 + -5",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "3 + -7",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "5 + 4",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - 4",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "4 + -3",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "3 + 1",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "9 + 7",
+    "jawaban": "16",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + -2",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - -5",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "3 - -9",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - 9",
+    "jawaban": "-18",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - -2",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + 4",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "3 + -2",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + -2",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "3 + 6",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "8 - 7",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - -1",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "8 - 0",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "3 + -8",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "7 + -8",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "6 - 5",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "4 - -4",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "1 - 8",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "7 - -7",
+    "jawaban": "14",
+    "poin": 40
+  },
+  {
+    "soal": "4 + -9",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + 1",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "2 + -1",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - 6",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + -5",
+    "jawaban": "-15",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - 7",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - 8",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "1 + 6",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "0 - -9",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + -1",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "4 + -4",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "5 + -4",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - 0",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - -8",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - -1",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - 0",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "4 - -6",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "7 - -8",
+    "jawaban": "15",
+    "poin": 40
+  },
+  {
+    "soal": "2 + -4",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "0 - 0",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - -7",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "7 - 3",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - -8",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + -9",
+    "jawaban": "-19",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + -8",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - -9",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + -7",
+    "jawaban": "-16",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - -6",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "9 - 4",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "2 + 0",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - -5",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "2 - -1",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "6 + 7",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "3 - 9",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - 0",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - -3",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "6 + 6",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "9 - -8",
+    "jawaban": "17",
+    "poin": 40
+  },
+  {
+    "soal": "0 + 0",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + 2",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "3 + 5",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "8 + 8",
+    "jawaban": "16",
+    "poin": 40
+  },
+  {
+    "soal": "9 + 5",
+    "jawaban": "14",
+    "poin": 40
+  },
+  {
+    "soal": "8 - -4",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - -5",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + -1",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "2 + -8",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "5 + 3",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + -6",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + -9",
+    "jawaban": "-15",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - -3",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "5 + -2",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "4 + 4",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + 2",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "5 - 0",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "0 + -10",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + 6",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - -10",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "9 + -9",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "4 - 3",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "3 + -9",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - -1",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - -10",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "8 - 2",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - 4",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "8 + -8",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "2 - 9",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "7 - -2",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "9 - -6",
+    "jawaban": "15",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + 9",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "9 + -6",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "2 - -5",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + -8",
+    "jawaban": "-15",
+    "poin": 40
+  },
+  {
+    "soal": "9 + 8",
+    "jawaban": "17",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - -2",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - 4",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "2 + 8",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "4 - 5",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "0 - -8",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - -3",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "0 + -5",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - 3",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - -6",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "2 - -2",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + -8",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "4 + 9",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - 2",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - 6",
+    "jawaban": "-16",
+    "poin": 40
+  },
+  {
+    "soal": "0 + 6",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "9 - 1",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "1 - -2",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "5 + 8",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "3 - 3",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "9 - -7",
+    "jawaban": "16",
+    "poin": 40
+  },
+  {
+    "soal": "3 + -1",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - -10",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - -3",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + -5",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "9 + -2",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "4 - 0",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "7 + -2",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "5 - 9",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "5 + 1",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + 7",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "4 - 1",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - -10",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "8 + 4",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "3 + -10",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "4 - -7",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - -4",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "9 - -4",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "9 + -5",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "0 - 3",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + 6",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - 7",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "6 + 8",
+    "jawaban": "14",
+    "poin": 40
+  },
+  {
+    "soal": "1 - -3",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - -6",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "1 - 6",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "1 - -4",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "6 - 2",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "9 - 7",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "6 - -7",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + 6",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - -7",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - 1",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "7 - -10",
+    "jawaban": "17",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - -10",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "8 + 2",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + 3",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - -7",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + -10",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "4 + 0",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + 3",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - -5",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + 5",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "5 - -2",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "3 + -3",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + -6",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - -5",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - 8",
+    "jawaban": "-16",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + -4",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "5 - -10",
+    "jawaban": "15",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + -3",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "7 + -1",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + 5",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "9 - -9",
+    "jawaban": "18",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + -3",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "0 + 9",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "5 - 5",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "2 - 0",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "0 + 7",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + 2",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "8 - -9",
+    "jawaban": "17",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + 0",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - 5",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + -7",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + -7",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - 7",
+    "jawaban": "-15",
+    "poin": 40
+  },
+  {
+    "soal": "5 + -5",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "6 + 3",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - 3",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "7 - -4",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + 7",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "3 + 0",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "9 + -3",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "2 - 3",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - 5",
+    "jawaban": "-15",
+    "poin": 40
+  },
+  {
+    "soal": "1 + -9",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + 6",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + 8",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "3 - 5",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - 2",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - 1",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - -6",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + -5",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + -3",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + -4",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + -9",
+    "jawaban": "-17",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + -10",
+    "jawaban": "-20",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - -4",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + -1",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - -7",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "0 - -7",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "5 + 9",
+    "jawaban": "14",
+    "poin": 40
+  },
+  {
+    "soal": "3 - -7",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + -4",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - 9",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - 8",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - 9",
+    "jawaban": "-15",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - -9",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "7 - 0",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "2 + -7",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - -6",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - -1",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - -9",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - 4",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "7 + 2",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - -8",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "5 + 5",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "4 + 5",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "3 - -2",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "4 - 7",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - 0",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "0 + -9",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + -6",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - -6",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "8 + -7",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + 9",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + -5",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "2 - -10",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + 8",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "0 - -5",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - 9",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + -6",
+    "jawaban": "-16",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + 0",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + 0",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "1 - -10",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "6 - -6",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - -8",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "6 - 8",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + 5",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - 2",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "2 - -9",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - -2",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "3 - -5",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "8 + 1",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "8 + 7",
+    "jawaban": "15",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + -10",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "9 + 1",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - -2",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "8 + -2",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "6 + 4",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + -8",
+    "jawaban": "-18",
+    "poin": 40
+  },
+  {
+    "soal": "5 + -1",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "1 - 9",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "6 - 4",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "1 + 3",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "7 + -6",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "3 - -8",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "5 - -9",
+    "jawaban": "14",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - 1",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "2 + -10",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "1 - -6",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + -2",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - 3",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + 8",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - 7",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + -1",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "7 + -10",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "6 + 0",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - 6",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + 0",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + 7",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "9 - -1",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + -1",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + 9",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "2 + 6",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + 3",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - -3",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "0 + -6",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + -2",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "8 + 5",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - -2",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + 6",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "6 + 1",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + -8",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - -10",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "9 - 2",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "5 - -6",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + -1",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - -2",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + -7",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "4 + 2",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - 3",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + 2",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "4 + -7",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - 8",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "6 - -1",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - -1",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + -1",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "7 - -3",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + -9",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "4 - -10",
+    "jawaban": "14",
+    "poin": 40
+  },
+  {
+    "soal": "1 - -8",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + 2",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - 8",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "6 + 9",
+    "jawaban": "15",
+    "poin": 40
+  },
+  {
+    "soal": "9 + -7",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - -7",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "6 - 7",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + -10",
+    "jawaban": "-18",
+    "poin": 40
+  },
+  {
+    "soal": "9 + -1",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "8 + 6",
+    "jawaban": "14",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + 7",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + 3",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - 0",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "1 - 3",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "7 + -5",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "8 + -1",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "9 - 5",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "7 + 1",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "-7 - 3",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - -5",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - -9",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "5 + -8",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "9 - 9",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "2 - 4",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + -2",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "9 - 8",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "0 - -3",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "5 + -6",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + -4",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "7 + 5",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "5 - -3",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "5 + 0",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "8 + -3",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - 4",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "2 - 6",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "4 + -1",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "2 + -3",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "4 + -6",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + -2",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "7 - -6",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + 6",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "8 - -5",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + 4",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + 4",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + 0",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "9 - 6",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "7 - -5",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - 7",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - 2",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - -7",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "3 + -5",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "9 - -10",
+    "jawaban": "19",
+    "poin": 40
+  },
+  {
+    "soal": "4 + 3",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + -5",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + 8",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - 3",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + -10",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + -3",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + -3",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + 1",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - 1",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + 2",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "6 + -1",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + -6",
+    "jawaban": "-15",
+    "poin": 40
+  },
+  {
+    "soal": "0 - -1",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - 0",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "6 - -3",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + -4",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + -7",
+    "jawaban": "-15",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - -5",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + -3",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "1 + -7",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - 0",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + 8",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "8 - 3",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "8 + -6",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "8 - -6",
+    "jawaban": "14",
+    "poin": 40
+  },
+  {
+    "soal": "5 + -7",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "8 - -8",
+    "jawaban": "16",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - 4",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "1 + 7",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "4 - -1",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - -6",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "5 - 6",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - 6",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "2 + 2",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - 2",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "4 + -8",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "7 + -9",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + 9",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + -7",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - -8",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + 3",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + -10",
+    "jawaban": "-17",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + 1",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "6 - -8",
+    "jawaban": "14",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - 9",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + 4",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + -1",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - -2",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + 8",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + -3",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "8 + -5",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "6 + -3",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "9 + 9",
+    "jawaban": "18",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + 3",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "2 + 7",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + -7",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - 9",
+    "jawaban": "-17",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - -3",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + 2",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "0 - 5",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "9 + -8",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + 0",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "0 + 3",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "0 + -7",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - 1",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "-9 - 0",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - 2",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "4 - 9",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "2 + -9",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "4 + -10",
+    "jawaban": "-6",
+    "poin": 40
+  },
+  {
+    "soal": "1 - 1",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "9 + 3",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + 8",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + 9",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "4 - 4",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + -8",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + -5",
+    "jawaban": "-14",
+    "poin": 40
+  },
+  {
+    "soal": "8 - 6",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "6 + -10",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + 4",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "0 + -4",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + -7",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "4 - -3",
+    "jawaban": "7",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - -1",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + -5",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "7 + 6",
+    "jawaban": "13",
+    "poin": 40
+  },
+  {
+    "soal": "1 + 2",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "0 + -1",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + 3",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "3 - 1",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-7 + 3",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "-5 + -3",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "2 + 4",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "9 - 0",
+    "jawaban": "9",
+    "poin": 40
+  },
+  {
+    "soal": "6 - -4",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "-9 + -4",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "6 - 1",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - 1",
+    "jawaban": "-5",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + 7",
+    "jawaban": "3",
+    "poin": 40
+  },
+  {
+    "soal": "9 + 2",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "7 + -3",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "4 + 1",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "5 - -5",
+    "jawaban": "10",
+    "poin": 40
+  },
+  {
+    "soal": "2 - -4",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "1 + 5",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + 5",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "5 - 7",
+    "jawaban": "-2",
+    "poin": 40
+  },
+  {
+    "soal": "5 + 7",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + -6",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "-4 + 9",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "9 - -3",
+    "jawaban": "12",
+    "poin": 40
+  },
+  {
+    "soal": "-2 + 4",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + -8",
+    "jawaban": "-11",
+    "poin": 40
+  },
+  {
+    "soal": "8 - 8",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "0 - 8",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + 8",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - -3",
+    "jawaban": "-1",
+    "poin": 40
+  },
+  {
+    "soal": "-5 - -9",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "-4 - -8",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "6 + -9",
+    "jawaban": "-3",
+    "poin": 40
+  },
+  {
+    "soal": "6 + 2",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "-3 + -10",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + -8",
+    "jawaban": "-9",
+    "poin": 40
+  },
+  {
+    "soal": "-1 + -9",
+    "jawaban": "-10",
+    "poin": 40
+  },
+  {
+    "soal": "-1 - 3",
+    "jawaban": "-4",
+    "poin": 40
+  },
+  {
+    "soal": "7 - -1",
+    "jawaban": "8",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - 7",
+    "jawaban": "-17",
+    "poin": 40
+  },
+  {
+    "soal": "7 + 4",
+    "jawaban": "11",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - 8",
+    "jawaban": "-18",
+    "poin": 40
+  },
+  {
+    "soal": "3 - 2",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "1 + 0",
+    "jawaban": "1",
+    "poin": 40
+  },
+  {
+    "soal": "-6 - 1",
+    "jawaban": "-7",
+    "poin": 40
+  },
+  {
+    "soal": "-10 - -10",
+    "jawaban": "0",
+    "poin": 40
+  },
+  {
+    "soal": "-10 + -3",
+    "jawaban": "-13",
+    "poin": 40
+  },
+  {
+    "soal": "3 + 2",
+    "jawaban": "5",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - 5",
+    "jawaban": "-8",
+    "poin": 40
+  },
+  {
+    "soal": "-8 + -8",
+    "jawaban": "-16",
+    "poin": 40
+  },
+  {
+    "soal": "3 + 3",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "-3 - -9",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "8 - 4",
+    "jawaban": "4",
+    "poin": 40
+  },
+  {
+    "soal": "-8 - -10",
+    "jawaban": "2",
+    "poin": 40
+  },
+  {
+    "soal": "-2 - -8",
+    "jawaban": "6",
+    "poin": 40
+  },
+  {
+    "soal": "-6 + -6",
+    "jawaban": "-12",
+    "poin": 40
+  },
+  {
+    "soal": "1 + -6",
+    "jawaban": "-5",
+    "poin": 40
+  }
+]
