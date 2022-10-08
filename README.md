@@ -1,7 +1,7 @@
 <h1>Dashboard 💻</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yanzz231/Yanz-Restapi/master/lib/des.PNG" width="550" />
+  <img src="https://raw.githubusercontent.com/Yanzz231/Yanz-Restapi/master/lib/des.png" width="550" />
 </p>
  
 <p align="center">Official Yanz - RestApi.</p>
