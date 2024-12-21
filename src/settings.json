@@ -1,9 +1,9 @@
 {
      "PORT": 80,
      "Owner": "6285559038021",
-     "Features": 64,
-     "Active": 64,
-     "Error": 0,
+     "Features": 5,
+     "Active": 0,
+     "Error": 5,
      "Reset_Time": {
           "Hour": "6",
           "Minute": "00"

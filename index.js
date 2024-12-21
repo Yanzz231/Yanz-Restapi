@@ -1,1 +1,33 @@
-const _0x1ac280=_0x582f;function _0x1ffd(){const _0x95b256=['map','Minute','status','./src/settings.json','stringify','writeFileSync','Error','filter','10DoMLfl','Features','86gPFzAv','21moRxIU','Reset_Time','./lib/pages/api-scheme.json','resetLimit','926344ETgjiM','length','Success\x20reset\x20free\x20limit','70WFhBwX','concat','apply','card','7736ccYqAy','./lib/classes','1814934CYfamH','Asia/Jakarta','218804jcblyd','661077PPsGNX','node-cron','2986548tXxbuk','\x20*\x20*\x20*','410432ggvpMl','Active','readFileSync'];_0x1ffd=function(){return _0x95b256;};return _0x1ffd();}(function(_0x51e304,_0x257eae){const _0x17cf68=_0x582f,_0x44f5c4=_0x51e304();while(!![]){try{const _0x3f7831=-parseInt(_0x17cf68(0xba))/0x1*(parseInt(_0x17cf68(0xae))/0x2)+parseInt(_0x17cf68(0xc1))/0x3+parseInt(_0x17cf68(0xbe))/0x4*(-parseInt(_0x17cf68(0xb6))/0x5)+parseInt(_0x17cf68(0xbc))/0x6+parseInt(_0x17cf68(0xaf))/0x7*(parseInt(_0x17cf68(0xb3))/0x8)+-parseInt(_0x17cf68(0xbf))/0x9*(parseInt(_0x17cf68(0xac))/0xa)+parseInt(_0x17cf68(0xc3))/0xb;if(_0x3f7831===_0x257eae)break;else _0x44f5c4['push'](_0x44f5c4['shift']());}catch(_0x300b41){_0x44f5c4['push'](_0x44f5c4['shift']());}}}(_0x1ffd,0x7cb3d));function _0x582f(_0xe3ad50,_0x441976){const _0x1ffd4e=_0x1ffd();return _0x582f=function(_0x582f60,_0x8c124e){_0x582f60=_0x582f60-0xa8;let _0x3f5f81=_0x1ffd4e[_0x582f60];return _0x3f5f81;},_0x582f(_0xe3ad50,_0x441976);}const RestApi=require(_0x1ac280(0xbb)),cron=require(_0x1ac280(0xc0)),client=new RestApi(),scheme=JSON['parse'](require('fs')['readFileSync'](_0x1ac280(0xb1)));let settings=JSON['parse'](require('fs')[_0x1ac280(0xc5)]('./src/settings.json'));cron['schedule'](settings[_0x1ac280(0xb0)][_0x1ac280(0xc7)]+'\x20'+settings['Reset_Time']['Hour']+_0x1ac280(0xc2),()=>{const _0x4a0bd7=_0x1ac280;client[_0x4a0bd7(0xb2)](),console['log'](_0x4a0bd7(0xb5));},{'scheduled':!![],'timezone':_0x1ac280(0xbd)});const features_merge=scheme[_0x1ac280(0xc6)](_0xae7ad4=>_0xae7ad4[_0x1ac280(0xb9)]),features=[][_0x1ac280(0xb7)][_0x1ac280(0xb8)]([],features_merge),active=features[_0x1ac280(0xab)](_0x4db88b=>_0x4db88b['status']),error=features[_0x1ac280(0xab)](_0x2f3662=>!_0x2f3662[_0x1ac280(0xc8)]);settings[_0x1ac280(0xad)]=features[_0x1ac280(0xb4)],settings[_0x1ac280(0xc4)]=active[_0x1ac280(0xb4)],settings[_0x1ac280(0xaa)]=error['length'],require('fs')[_0x1ac280(0xa9)](_0x1ac280(0xc9),JSON[_0x1ac280(0xa8)](settings,null,0x5)),client['start']();
+const fs = require('fs');
+const path = require('path');
+const cron = require('node-cron');
+const RestApi = require('./lib/classes');
+
+const client = new RestApi();
+const scheme = JSON.parse(fs.readFileSync('./lib/pages/api-scheme.json'));
+let settings = JSON.parse(fs.readFileSync('./src/settings.json'));
+
+cron.schedule(
+  `${settings.Reset_Time.Minute} ${settings.Reset_Time.Hour} * * *`,
+  () => {
+    client.resetLimit();
+    console.log('Success reset free limit');
+  },
+  {
+    scheduled: true,
+    timezone: 'Asia/Jakarta',
+  }
+);
+
+const features_merge = scheme.map((feature) => feature.card);
+const features = [].concat([], features_merge);
+const active = features.filter((feature) => feature.status);
+const error = features.filter((feature) => !feature.status);
+
+settings.Features = features.length;
+settings.Active = active.length;
+settings.Error = error.length;
+
+fs.writeFileSync('./src/settings.json', JSON.stringify(settings, null, 5));
+
+client.start();

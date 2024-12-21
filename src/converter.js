@@ -1,1 +1,99 @@
-function _0x5382(_0x595f23,_0x2d7914){const _0x722d87=_0x722d();return _0x5382=function(_0x5382e4,_0x20d24a){_0x5382e4=_0x5382e4-0x145;let _0x5687ca=_0x722d87[_0x5382e4];return _0x5687ca;},_0x5382(_0x595f23,_0x2d7914);}const _0x1ac3b0=_0x5382;function _0x722d(){const _0x3f5f3f=['libopus','-crf','aac','close','join','libx264','154715ZTbLgU','1TYdBhm','-ar','mp3','4890312EfrMJa','442500Onznte','error','-b:a','existsSync','unlinkSync','exports','12hMDuBr','-compression_level','445852mZegDB','.mp3','-vn','5115303QPszog','8dIOnto','13017gwKJso','44100','-ac','path','ffmpeg','1161234gDcKEv','.mp4','-ab','128k','-c:v','readFileSync','writeFileSync','-preset','270gxzjmx','../tmp'];_0x722d=function(){return _0x3f5f3f;};return _0x722d();}(function(_0x17e4a5,_0x599628){const _0x28e8de=_0x5382,_0x3a9f18=_0x17e4a5();while(!![]){try{const _0x4c3261=-parseInt(_0x28e8de(0x156))/0x1*(parseInt(_0x28e8de(0x145))/0x2)+parseInt(_0x28e8de(0x167))/0x3+-parseInt(_0x28e8de(0x15a))/0x4+parseInt(_0x28e8de(0x155))/0x5*(-parseInt(_0x28e8de(0x160))/0x6)+parseInt(_0x28e8de(0x159))/0x7+-parseInt(_0x28e8de(0x166))/0x8*(parseInt(_0x28e8de(0x165))/0x9)+parseInt(_0x28e8de(0x14d))/0xa*(parseInt(_0x28e8de(0x162))/0xb);if(_0x4c3261===_0x599628)break;else _0x3a9f18['push'](_0x3a9f18['shift']());}catch(_0x7e44b2){_0x3a9f18['push'](_0x3a9f18['shift']());}}}(_0x722d,0x742b0));const fs=require('fs'),path=require(_0x1ac3b0(0x16a)),{spawn}=require('child_process');function toAudio(_0x258f45,_0x7f0ef5){return new Promise((_0x3eb295,_0x39bcfb)=>{const _0x5d8d15=_0x5382;let _0x207318=path[_0x5d8d15(0x153)](__dirname,_0x5d8d15(0x14e),+new Date()+'.'+_0x7f0ef5),_0x570e39=_0x207318+_0x5d8d15(0x163);fs['writeFileSync'](_0x207318,_0x258f45),spawn(_0x5d8d15(0x16b),['-y','-i',_0x207318,_0x5d8d15(0x164),_0x5d8d15(0x169),'2',_0x5d8d15(0x15c),_0x5d8d15(0x148),_0x5d8d15(0x157),_0x5d8d15(0x168),'-f',_0x5d8d15(0x158),_0x570e39])['on'](_0x5d8d15(0x15b),_0x39bcfb)['on'](_0x5d8d15(0x15b),()=>fs[_0x5d8d15(0x15e)](_0x207318))['on'](_0x5d8d15(0x152),()=>{const _0x32a6d8=_0x5d8d15;fs[_0x32a6d8(0x15e)](_0x207318),_0x3eb295(fs[_0x32a6d8(0x14a)](_0x570e39));if(fs[_0x32a6d8(0x15d)](_0x570e39))fs[_0x32a6d8(0x15e)](_0x570e39);});});}function toPTT(_0x428507,_0x306267){return new Promise((_0x30c37a,_0x1fd851)=>{const _0x2ff41d=_0x5382;let _0x129f08=path['join'](__dirname,_0x2ff41d(0x14e),+new Date()+'.'+_0x306267),_0x2f9d67=_0x129f08+'.opus';fs[_0x2ff41d(0x14b)](_0x129f08,_0x428507),spawn(_0x2ff41d(0x16b),['-y','-i',_0x129f08,_0x2ff41d(0x164),'-c:a',_0x2ff41d(0x14f),'-b:a',_0x2ff41d(0x148),'-vbr','on',_0x2ff41d(0x161),'10',_0x2f9d67])['on'](_0x2ff41d(0x15b),_0x1fd851)['on'](_0x2ff41d(0x15b),()=>fs[_0x2ff41d(0x15e)](_0x129f08))['on'](_0x2ff41d(0x152),()=>{const _0x4ac446=_0x2ff41d;fs['unlinkSync'](_0x129f08),_0x30c37a(fs[_0x4ac446(0x14a)](_0x2f9d67));if(fs['existsSync'](_0x2f9d67))fs[_0x4ac446(0x15e)](_0x2f9d67);});});}function toVideo(_0x8960dd,_0x1714d2){return new Promise((_0x48532d,_0x53389e)=>{const _0x242033=_0x5382;let _0x37c52e=path['join'](__dirname,_0x242033(0x14e),+new Date()+'.'+_0x1714d2),_0x2ed36c=_0x37c52e+_0x242033(0x146);fs[_0x242033(0x14b)](_0x37c52e,_0x8960dd),spawn(_0x242033(0x16b),['-y','-i',_0x37c52e,_0x242033(0x149),_0x242033(0x154),'-c:a',_0x242033(0x151),_0x242033(0x147),_0x242033(0x148),_0x242033(0x157),_0x242033(0x168),_0x242033(0x150),'32',_0x242033(0x14c),'slow',_0x2ed36c])['on'](_0x242033(0x15b),_0x53389e)['on']('error',()=>fs[_0x242033(0x15e)](_0x37c52e))['on'](_0x242033(0x152),()=>{const _0x56b48a=_0x242033;fs[_0x56b48a(0x15e)](_0x37c52e),_0x48532d(fs[_0x56b48a(0x14a)](_0x2ed36c));if(fs[_0x56b48a(0x15d)](_0x2ed36c))fs['unlinkSync'](_0x2ed36c);});});}module[_0x1ac3b0(0x15f)]={'toAudio':toAudio,'toPTT':toPTT,'toVideo':toVideo};
+const fs = require('fs');
+const path = require('path');
+const { spawn } = require('child_process');
+
+function toAudio(inputBuffer, extension) {
+    return new Promise((resolve, reject) => {
+        const tempFilePath = path.join(__dirname, '../tmp', `${Date.now()}.${extension}`);
+        const outputFilePath = `${tempFilePath}.mp3`;
+
+        fs.writeFileSync(tempFilePath, inputBuffer);
+
+        const process = spawn('ffmpeg', [
+            '-y', '-i', tempFilePath, '-vn', '-ar', '44100', '-ac', '2', '-b:a', '128k', '-f', 'mp3', outputFilePath
+        ]);
+
+        process.on('error', (err) => {
+            fs.unlinkSync(tempFilePath);
+            reject(err);
+        });
+
+        process.on('close', () => {
+            fs.unlinkSync(tempFilePath);
+
+            if (fs.existsSync(outputFilePath)) {
+                const outputBuffer = fs.readFileSync(outputFilePath);
+                fs.unlinkSync(outputFilePath);
+                resolve(outputBuffer);
+            } else {
+                reject(new Error('Output file not created'));
+            }
+        });
+    });
+}
+
+function toPTT(inputBuffer, extension) {
+    return new Promise((resolve, reject) => {
+        const tempFilePath = path.join(__dirname, '../tmp', `${Date.now()}.${extension}`);
+        const outputFilePath = `${tempFilePath}.opus`;
+
+        fs.writeFileSync(tempFilePath, inputBuffer);
+
+        const process = spawn('ffmpeg', [
+            '-y', '-i', tempFilePath, '-vn', '-c:a', 'libopus', '-b:a', '128k', '-vbr', 'on', '-compression_level', '10', outputFilePath
+        ]);
+
+        process.on('error', (err) => {
+            fs.unlinkSync(tempFilePath);
+            reject(err);
+        });
+
+        process.on('close', () => {
+            fs.unlinkSync(tempFilePath);
+
+            if (fs.existsSync(outputFilePath)) {
+                const outputBuffer = fs.readFileSync(outputFilePath);
+                fs.unlinkSync(outputFilePath);
+                resolve(outputBuffer);
+            } else {
+                reject(new Error('Output file not created'));
+            }
+        });
+    });
+}
+
+function toVideo(inputBuffer, extension) {
+    return new Promise((resolve, reject) => {
+        const tempFilePath = path.join(__dirname, '../tmp', `${Date.now()}.${extension}`);
+        const outputFilePath = `${tempFilePath}.mp4`;
+
+        fs.writeFileSync(tempFilePath, inputBuffer);
+
+        const process = spawn('ffmpeg', [
+            '-y', '-i', tempFilePath, '-c:v', 'libx264', '-crf', '32', '-preset', 'slow', '-c:a', 'aac', '-b:a', '128k', outputFilePath
+        ]);
+
+        process.on('error', (err) => {
+            fs.unlinkSync(tempFilePath);
+            reject(err);
+        });
+
+        process.on('close', () => {
+            fs.unlinkSync(tempFilePath);
+
+            if (fs.existsSync(outputFilePath)) {
+                const outputBuffer = fs.readFileSync(outputFilePath);
+                fs.unlinkSync(outputFilePath);
+                resolve(outputBuffer);
+            } else {
+                reject(new Error('Output file not created'));
+            }
+        });
+    });
+}
+
+module.exports = {
+    toAudio,
+    toPTT,
+    toVideo
+};
